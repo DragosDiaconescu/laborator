@@ -1,0 +1,4 @@
+{
+  "appService.deploySubpath": "publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/f1342de3-2e9d-485e-8433-1ab799af2502/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/lab6datc-dragos"
+}
